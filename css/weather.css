@@ -10,3 +10,9 @@ main{
     background: #C2E6FF;
     min-height: 100vh;
 }
+
+main .box{
+    min-height: 200px;
+    background: white;
+    margin-top: 8%;
+}
