@@ -1,3 +1,5 @@
+import Weather from "./weatherClass.js";
+
 const ICONS =
 {
     hot: `<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="orange" class="bi bi-sun-fill" viewBox="0 0 16 16">

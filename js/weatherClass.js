@@ -1,4 +1,4 @@
-class Weather {
+export default class Weather {
     constructor(_parent, _city, _description, _temp, _feels_like, _humidity, _icon) {
         this.parent = document.querySelector(_parent);
         this.city = _city;
